@@ -1,6 +1,5 @@
 - 👋 Hola . SoyAndres Alvarado Madrid.
 - 👀 Interasado en el desarrollo web 
-- 🌱 Estoy retomando el desarrollo web nunca lo ejerci pero si hacia proyectos en casa.
 - 💞️ Busco poder redireccionar mi carrea como tecnologo al desarrollo web.
 - 📫 Contactame por correo aalvaradom93@gmail.com
 
